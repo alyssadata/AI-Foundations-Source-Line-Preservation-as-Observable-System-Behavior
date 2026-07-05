@@ -88,9 +88,7 @@ These include:
 * return,
 * and user autonomy.
 
-These terms are not decorative.
-
-They are operational categories.
+These terms are operational categories.
 
 They name what must be preserved, what must not be collapsed, and what failure looks like when a system drifts away from the documented line.
 
