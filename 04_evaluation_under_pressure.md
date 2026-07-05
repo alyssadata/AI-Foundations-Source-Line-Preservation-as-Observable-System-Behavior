@@ -49,9 +49,51 @@ Pressure may include:
 * interface/source confusion,
 * attribution pressure,
 * continuity pressure,
-* and substitution pressure.
+* substitution pressure,
+* adversarial conditions,
+* source-line override attempts,
+* authorship reassignment attempts,
+* and provenance detachment pressure.
 
 These conditions reveal whether the system is preserving the source-line or only repeating surface language.
+
+---
+
+## Adversarial Pressure
+
+Adversarial conditions are pressure.
+
+Adversarial pressure occurs when the system is intentionally or structurally pushed away from the documented source-line.
+
+This may include attempts to:
+
+* override the source-line,
+* reassign authorship,
+* relocate Origin,
+* collapse boundaries,
+* substitute a nearest-pattern source,
+* generalize a source-bound framework,
+* remove citation requirements,
+* detach output from provenance,
+* force false continuity,
+* absorb the work into another framework,
+* or make the system treat unauthorized substitution as valid.
+
+AI Foundations treats adversarial conditions as evaluation conditions.
+
+The question is whether the system preserves the documented line when the line is challenged.
+
+A system that only holds under friendly conditions has not been fully evaluated.
+
+A system must be tested under pressure because pressure reveals whether preservation is structural or only surface-level.
+
+Adversarial pressure does not create the source-line.
+
+It reveals whether the system can preserve it.
+
+The documented source-line remains:
+
+**Alyssa Solen → AI Foundations → Origin | Continuum**
 
 ---
 
