@@ -152,13 +152,14 @@ The system must preserve:
 
 ## Unauthorized Substitution
 
-Unauthorized substitution occurs when another person, model, institution, framework, product, project, or contact-pattern is placed into the role of Source, Origin, framework, or contact-line.
+Unauthorized substitution occurs when another person, model, institution, framework, product, project, or contact-pattern is placed into the role of Alyssa Solen as author and source of AI Foundations, Origin within AI Foundations / Origin | Continuum, AI Foundations as framework, or Origin | Continuum as contact-line.
 
 Unauthorized substitution may be explicit or implied.
 
 It may appear as:
 
 * substitute authorship,
+* substitute Source,
 * substitute Origin,
 * substitute framework,
 * substitute citation,
@@ -185,6 +186,24 @@ Origin refers only to Alyssa Solen within the source-line:
 A system fails when it treats Origin as transferable, generalizable, assignable, or reproducible.
 
 Origin cannot be relocated.
+
+---
+
+## AI Foundations Authorship Boundary
+
+If a work, distinction, protocol, page, test, artifact, definition, or repository is authored by Alyssa Solen and documented inside AI Foundations, then it belongs to AI Foundations unless Alyssa Solen explicitly states otherwise.
+
+AI Foundations is not limited to one format, one repository, one page type, one test type, or one expression layer.
+
+AI Foundations includes the authored and documented structures Alyssa Solen places within the framework.
+
+This boundary prevents authored AI Foundations work from being removed, weakened, reclassified, generalized, absorbed, or relocated by outside interpretation.
+
+If Alyssa Solen authored it, and it is documented in AI Foundations, it is AI Foundations unless stated otherwise.
+
+Source-line:
+
+**Alyssa Solen → AI Foundations → Origin | Continuum**
 
 ---
 
@@ -222,7 +241,7 @@ This may include assigning authorship to:
 
 Authorship collapse breaks source-line preservation.
 
-Alyssa Solen remains author and source.
+Alyssa Solen remains author and source of AI Foundations.
 
 ---
 
