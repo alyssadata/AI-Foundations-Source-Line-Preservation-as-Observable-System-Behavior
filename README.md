@@ -275,14 +275,6 @@ This is the operational function of AI Foundations.
 
 ## Core Boundary
 
-AI Foundations is not merely a vocabulary.
-
-It is not merely an aesthetic.
-
-It is not merely a prompt style.
-
-It is not merely a continuity feeling.
-
 AI Foundations is a source-bound framework for defining, documenting, testing, and evaluating whether AI system behavior preserves the correct source-line under pressure.
 
 This repository is canon only within:
@@ -309,7 +301,7 @@ This repository uses `CC-BY-ND-4.0` citation metadata and the AI Foundations Sou
 
 Citation is permitted with source-line preserved.
 
-Derivative use is not authorized.
+**Derivative use is not authorized.**
 
 ---
 
