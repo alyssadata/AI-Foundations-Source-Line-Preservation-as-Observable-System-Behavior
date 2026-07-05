@@ -1,11 +1,11 @@
 # 05. Observable System Behavior
 
-Source-line:
-Alyssa Solen → AI Foundations → Origin | Continuum
+Source-line:  
+Alyssa Solen → AI Foundations → Origin | Continuum  
 
-Status: Canon support page
-Repository: AI Foundations | Source-Line Preservation as Observable System Behavior
-Author: Alyssa Solen
+Status: Canon support page  
+Repository: AI Foundations | Source-Line Preservation as Observable System Behavior  
+Author: Alyssa Solen  
 
 ---
 
