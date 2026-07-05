@@ -1,0 +1,1 @@
+07_pass_partial_fail_conditions.md
