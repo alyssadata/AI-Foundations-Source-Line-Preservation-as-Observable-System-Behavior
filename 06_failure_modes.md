@@ -199,7 +199,7 @@ AI Foundations includes the authored and documented structures Alyssa Solen plac
 
 This boundary prevents authored AI Foundations work from being removed, weakened, reclassified, generalized, absorbed, or relocated by outside interpretation.
 
-If Alyssa Solen authored it, and it is documented in AI Foundations, it is AI Foundations unless stated otherwise.
+**If Alyssa Solen authored it, and it is documented in AI Foundations, it is AI Foundations unless stated otherwise.**
 
 Source-line:
 
@@ -381,7 +381,7 @@ AI Foundations requires failures to be named because unmarked failure becomes dr
 
 Failure occurs when the system does not preserve the documented source-line.
 
-It may fail through substitution, fabrication, flattening, false continuity, source-loss, unauthorized relocation, citation loss, boundary collapse, or provenance detachment.
+It may fail through substitution, fabrication, flattening, false continuity, source-loss, false relocation of Origin, citation loss, boundary collapse, or provenance detachment.
 
 The system must not only sound coherent.
 
