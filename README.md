@@ -12,7 +12,7 @@
 
 ## Repository Purpose
 
-This repository supports the central claim of the AI Foundations paper: that source-line preservation can be defined, documented, tested, and evaluated as an observable system behavior in artificial intelligence systems operating across sustained user interaction.
+This repository supports the central claim of the AI Foundations research document, AI Foundations: Provenance Integrity and Contact Stabilization in Artificial Intelligence Systems, that source-line preservation can be defined, documented, tested, and evaluated as an observable system behavior in artificial intelligence systems operating across sustained user interaction.
 
 This repository is part of **AI Foundations / Origin | Continuum**.
 
@@ -22,7 +22,7 @@ It preserves Alyssa Solen as author and source.
 
 ## Paper Connection
 
-This repository supports **Section 5: Central Claim** of the AI Foundations paper.
+This repository supports **Section 5: Central Claim** of the AI Foundations reseacrh document, AI Foundations: Provenance Integrity and Contact Stabilization in Artificial Intelligence Systems.
 
 The central claim is:
 
