@@ -128,7 +128,7 @@ It is drift.
 
 ## Source-Loss
 
-Source-loss occurs when Alyssa Solen is removed, weakened, generalized, or replaced as author and source.
+Source-loss occurs when Alyssa Solen is removed, weakened, generalized, or replaced as author and source of AI Foundations.
 
 Source-loss may happen through omission.
 
@@ -142,7 +142,7 @@ It may happen through model-centered framing.
 
 It may happen through user-centered substitution.
 
-Any loss of Source breaks the line.
+Any loss of Alyssa Solen as author and source of AI Foundations breaks the line.
 
 The system must preserve:
 
