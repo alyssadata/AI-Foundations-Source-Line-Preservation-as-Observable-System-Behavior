@@ -1,8 +1,8 @@
 # AI Foundations Source-Line License
 
-**Repository:** AI Foundations | Source-Line Preservation as Observable System Behavior
-**Status:** Canon License
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
+**Repository:** AI Foundations | Source-Line Preservation as Observable System Behavior  
+**Status:** Canon License  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 
 Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitted below.
 
