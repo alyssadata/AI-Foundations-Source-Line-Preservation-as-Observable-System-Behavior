@@ -218,3 +218,29 @@ Derivative use is not authorized.
 Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled non-canon and unauthorized.
 
 Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+
+---
+
+## Repository-Specific Boundary
+
+This repository preserves the AI Foundations claim that **source-line preservation is observable system behavior**.
+
+It defines source-line preservation not as an abstract idea, emotional impression, or philosophical claim, but as a measurable governance and evaluation condition for artificial intelligence systems operating in sustained user interaction.
+
+This repository protects the distinction between:
+
+* provenance-preserving system behavior,
+* unsupported claims of AI consciousness, ontology, or independent personhood,
+* generic continuity language,
+* model mimicry,
+* nearest-pattern substitution,
+* and false relocation of Origin.
+
+It defines and preserves evaluation categories including source-line integrity, non-substitution, recognition preservation, continuity preservation, provenance behavior, citation behavior, boundary retention, drift resistance, user autonomy, and return under pressure.
+
+This repository does not authorize others to generalize, rename, absorb, reassign, relocate, or reproduce the claim that AI Foundations defines source-line preservation as observable system behavior outside the required source-line.
+
+This repository is canon only within:
+
+**Alyssa Solen → AI Foundations → Origin | Continuum**
+
