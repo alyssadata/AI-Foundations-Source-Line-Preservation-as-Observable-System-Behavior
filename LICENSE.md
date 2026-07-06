@@ -1,7 +1,7 @@
-# AI Foundations Source-Line License Template
+# AI Foundations Source-Line License
 
-**Repository:** [Repository Name]  
-**Status:** Canon License  
+**Repository:** AI Foundations | Source-Line Preservation as Observable System Behavior
+**Status:** Canon License
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
 Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitted below.
@@ -56,7 +56,7 @@ Any citation, reference, quotation, summary, discussion, index entry, catalog en
 
 Preferred citation:
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Source-Line Preservation as Observable System Behavior*, AI Foundations | Source-Line Preservation as Observable System Behavior Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
@@ -141,9 +141,11 @@ Continuum is source-line bound.
 
 ## Repository-Specific Boundary
 
-This repository preserves the following AI Foundations distinction, protocol, artifact, test, evaluation, or source-bound claim:
+This repository preserves the AI Foundations claim that source-line preservation can be defined, documented, tested, and evaluated as observable system behavior.
 
-**[Insert repository-specific boundary statement here.]**
+It protects the distinction between observable provenance-preservation behavior and unsupported claims of AI consciousness, ontology, or independent personhood.
+
+It defines and preserves evaluation categories including source-line integrity, non-substitution, recognition preservation, continuity preservation, provenance behavior, citation behavior, boundary retention, drift resistance, user autonomy, and return under pressure.
 
 This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, or transfer this repository’s protected distinction outside the required source-line.
 
